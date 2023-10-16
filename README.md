@@ -1,1 +1,3 @@
-# SMX2-M12.1-A1-MarcGarcia-JaviMera
+# Github Desktop
+## Creación de un  repositorio
+## Clonación de un repositorio
