@@ -25,6 +25,7 @@ Iniciaremos sesión en la cuenta de GitHub utilizando GitHub Desktop.
 
 * Trabaja en tu repositorio local:
     - Después de clonar el repositorio, podemos abrirlo con el VS Code o un editor similar
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/5.png "imagen")
     - Realizaremos las modificaciones que deseemos en los archivos del repositorio local.
     - Una vez que hayas realizado las modificaciones, guardaremos con Ctrl + S.
 
@@ -34,11 +35,21 @@ Iniciaremos sesión en la cuenta de GitHub utilizando GitHub Desktop.
 Nos aseguraremos de tener conectada la cuenta de GitHub con GitHub Desktop.
 * Creacio de un nuevo repositorio:
     - Haremos click en "Archivo" y luego en "Nuevo repositorio".
-    - Especificaremos la ubicación donde deseemos guardar el nuevo repositorio en nuestro ordenador.
+
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/6.png "imagen")
+
     - Configuraremos las opciones del repositorio, como el nombre, la descripción y el archivo .gitignore.
+
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/7.png "imagen")
+    
+    - Especificaremos la ubicación donde deseemos guardar el nuevo repositorio en nuestro ordenador.
+
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/8.png "imagen")
+
     - Haremos click en "Crear repositorio" para crear el nuevo repositorio.
+
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/9.png "imagen")
     - Trabaja en tu repositorio local:
 
 Después de crear el repositorio, puedes abrirlo con el editor de tu elección.
-
 Agrega archivos, realiza modificaciones y realiza confirmaciones (commits) según sea necesario.
