@@ -1,16 +1,17 @@
 # Github Desktop
 
-## 1. Clonación de un repositorio activo
-Para clonar un repositorio y trabajar de manera local el primero hay que crearlo, para ello vamos a la pagina web de [GITHUB](https://github.com "github") e iniciamos sesion, una vez dentro vamos a la parte superior de la izquierda y le damos a new.
-Nos redigira a una pagina nueva donde podremos crear el repositorio nuevo, pondremos el nombre y marcaremos la casilla con el readme para poder trabajar de manera local.
+## 1. Clonar y trabajar en un repositorio activo
 
-![U+200E|500](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/1.png "IMAGEN")
+* Descarga e instalación de GitHub Desktop: Si aún no tenemos GitHub Desktop instalado, deberemos descargarlo e instalarlo desde el sitio web oficial de GitHub.
+* Iniciar sesión: Iniciaremos sesión en la cuenta de GitHub utilizando GitHub Desktop.
+* Clonación del repositorio remoto:
+    - Haremos click en "Archivo" y luego en "Clonar repositorio".
+    - Selecciona el repositorio que deseas clonar de la lista o introduce la URL del repositorio.
+    - Especifica la ubicación donde deseas guardar el repositorio en tu computadora.
+    - Haz clic en "Clonar" para descargar el repositorio en tu computadora.
 
-Cuando este creado vamos a la aplicación Github Desktop y arriba a la izquierda en el apartado "file" le daremos a "clone repository..."
+* Trabaja en tu repositorio local:
 
-![U+200E|500](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/2.png "IMAGEN")
-
-Se nos abrira una nueva pestaña donde seleccionaremos el repositorio que queremos clonar
-
-![U+200E|500](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/3.png "IMAGEN")
-
+Después de clonar el repositorio, puedes abrirlo con el editor de tu elección.
+Realiza las modificaciones que desees en los archivos del repositorio local.
+Una vez que hayas realizado las modificaciones, regresa a GitHub Desktop.
