@@ -8,10 +8,20 @@ Si aún no tenemos GitHub Desktop instalado, deberemos descargarlo e instalarlo 
 Iniciaremos sesión en la cuenta de GitHub utilizando GitHub Desktop.
 * Clonación del repositorio remoto:
     - Haremos click en "Archivo" y luego en "Clonar repositorio".
-      ![U+200E]()
+
+      ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/1.png "imagen")
+
     - Selecciona el repositorio que deseas clonar de la lista o introduce la URL del repositorio.
+
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/2.png "imagen")
+
     - Especifica la ubicación donde deseas guardar el repositorio en tu computadora.
+
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/3.png "imagen")
+
     - Haz clic en "Clonar" para descargar el repositorio en tu computadora.
+
+    ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/4.png "imagen")
 
 * Trabaja en tu repositorio local:
     - Después de clonar el repositorio, podemos abrirlo con el VS Code o un editor similar
@@ -23,11 +33,12 @@ Iniciaremos sesión en la cuenta de GitHub utilizando GitHub Desktop.
 * Iniciar sesión: 
 Nos aseguraremos de tener conectada la cuenta de GitHub con GitHub Desktop.
 * Creacio de un nuevo repositorio:
-    - Haz clic en "Archivo" y luego en "Nuevo repositorio".
-    - Especifica la ubicación donde deseas guardar el nuevo repositorio en tu computadora.
-    - Configura las opciones del repositorio, como el nombre, la descripción y el archivo .gitignore si es necesario.
-    - Haz clic en "Crear repositorio" para crear el nuevo repositorio.
+    - Haremos click en "Archivo" y luego en "Nuevo repositorio".
+    - Especificaremos la ubicación donde deseemos guardar el nuevo repositorio en nuestro ordenador.
+    - Configuraremos las opciones del repositorio, como el nombre, la descripción y el archivo .gitignore.
+    - Haremos click en "Crear repositorio" para crear el nuevo repositorio.
     - Trabaja en tu repositorio local:
 
 Después de crear el repositorio, puedes abrirlo con el editor de tu elección.
+
 Agrega archivos, realiza modificaciones y realiza confirmaciones (commits) según sea necesario.
