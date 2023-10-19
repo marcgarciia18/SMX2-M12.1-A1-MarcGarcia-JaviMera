@@ -59,3 +59,20 @@ Nos aseguraremos de tener conectada la cuenta de GitHub con GitHub Desktop.
 
 
 ## 3. Sincronización de un repositorio local
+
+* Abrir GitHub Desktop: 
+Nos Asegúraremos de haber iniciado sesión y de tener abierto GitHub Desktop.
+
+
+
+* Seleccionar el repositorio local:
+Desde la lista de repositorios, seleccionaremos el que deseas sincronizar.
+
+* Verificar los cambios: 
+GitHub Desktop mostrará los cambios pendientes que hemos realizado en el repositorio local. Esto incluye nuevos commits y modificaciones.
+
+* Realizar un commit: 
+Antes de sincronizar con el repositorio remoto, realizaremos un commit de los cambios que deseas enviar. Ingresa un mensaje de commit para describir tus modificaciones.
+
+* Sincronizar con el repositorio remoto: 
+Haremos click en el botón "Sincronizar" en la parte superior de la ventana. Esto enviará tus commits al repositorio remoto.
