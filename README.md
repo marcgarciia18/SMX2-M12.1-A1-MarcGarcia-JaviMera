@@ -25,9 +25,12 @@ Iniciaremos sesión en la cuenta de GitHub utilizando GitHub Desktop.
 
 * Trabaja en tu repositorio local:
     - Después de clonar el repositorio, podemos abrirlo con el VS Code o un editor similar
+
     ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/5.png "imagen")
+
     - Realizaremos las modificaciones que deseemos en los archivos del repositorio local.
     - Una vez que hayas realizado las modificaciones, guardaremos con Ctrl + S.
+
 
 ## 2. Creación de un repositorio local
 
@@ -51,5 +54,5 @@ Nos aseguraremos de tener conectada la cuenta de GitHub con GitHub Desktop.
     ![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/9.png "imagen")
     - Trabaja en tu repositorio local:
 
-Después de crear el repositorio, puedes abrirlo con el editor de tu elección.
-Agrega archivos, realiza modificaciones y realiza confirmaciones (commits) según sea necesario.
+    Después de crear el repositorio, puedes abrirlo con el editor de tu elección.
+    Agrega archivos, realiza modificaciones y realiza confirmaciones (commits) según sea necesario.
