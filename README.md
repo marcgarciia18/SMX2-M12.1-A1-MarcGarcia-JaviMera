@@ -1,6 +1,6 @@
 # Github Desktop
 
-## 1. Clonar y trabajar en un repositorio activo
+## 1. Clonación y trabajo en local de un repositorio GitHub remoto ya inicializado (activo)
 
 * Descarga e instalación de GitHub Desktop: 
 Si aún no tenemos GitHub Desktop instalado, deberemos descargarlo e instalarlo desde el sitio web oficial de GitHub.
@@ -56,3 +56,6 @@ Nos aseguraremos de tener conectada la cuenta de GitHub con GitHub Desktop.
 
     Después de crear el repositorio, puedes abrirlo con el editor de tu elección.
     Agrega archivos, realiza modificaciones y realiza confirmaciones (commits) según sea necesario.
+
+
+## 3. Sincronización de un repositorio local
