@@ -68,19 +68,19 @@ Nos Asegúraremos de haber iniciado sesión y de tener abierto GitHub Desktop.
 * Seleccionar el repositorio local:
 Desde la lista de repositorios, seleccionaremos el que deseas sincronizar.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/10.png "imagen")
+![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/11.png "imagen")
 
 * Verificar los cambios: 
 GitHub Desktop mostrará los cambios pendientes que hemos realizado en el repositorio local. Esto incluye nuevos commits y modificaciones.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/10.png "imagen")
+![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/12.png "imagen")
 
 * Realizar un commit: 
 Antes de sincronizar con el repositorio remoto, realizaremos un commit de los cambios que deseas enviar. Ingresa un mensaje de commit para describir tus modificaciones.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/10.png "imagen")
+![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/13.png "imagen")
 
 * Sincronizar con el repositorio remoto: 
 Haremos click en el botón "Sincronizar" en la parte superior de la ventana. Esto enviará tus commits al repositorio remoto.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/10.png "imagen")
+![U+200E](https://github.com/marcgarciia18/SMX2-M12.1-A1-MarcGarcia-JaviMera/blob/main/Imagenes%20Documentacion/14.png "imagen")
